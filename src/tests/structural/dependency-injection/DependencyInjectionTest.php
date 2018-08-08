@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatternTest\DependencyInjection;
+namespace DesignPatternTest\Structural\DependencyInjection;
 
 use DesignPattern\Structural\DependencyInjection\Feed;
 use DesignPattern\Structural\DependencyInjection\TwitterFeed;

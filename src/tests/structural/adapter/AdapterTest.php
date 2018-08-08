@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatternTest\Adapter;
+namespace DesignPatternTest\Structural\Adapter;
 
 use DesignPattern\Structural\Adapter\EmailNotification;
 use DesignPattern\Structural\Adapter\SmsNotification;
